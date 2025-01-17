@@ -1,11 +1,11 @@
 {
   "basic_info": {
     "description_header": "Salut",
-    "description": "👋 Je suis Davina Griss. Personne fictive à des fins de prévisualisation :) Je travaille avec les nouveaux frameworks front-end comme Angular, React et Vue. Ce que vous voyez maintenant est un modèle de portfolio de Dorota1997. Si vous aimez ce modèle de portefeuille, assurez-vous de ⭐ le dépôt pour le rendre plus reconnaissable pour les autres utilisateurs. Merci 💜",
+    "description": "👋 Je suis Moussa Diop KEITA. Développeur fullstack passionné 👨‍💻, je maîtrise Java, JavaScript et leurs écosystèmes, avec des compétences solides en Angular 🅰️, React ⚛️, Spring , Node.js , Flutter et React Native 📱. Mon rôle s'étend de l’analyse des besoins à la conception et au développement de solutions performantes 🚀, en passant par les tests 🧪, la documentation 📄, et l’amélioration continue des applications 🔄. Sensible aux enjeux de qualité, sécurité 🔒 et durabilité 🌍, je m’assure d’intégrer des pratiques responsables tout en garantissant la sécurité des informations et en encourageant le recyclage ♻️. Engagé et rigoureux, je suis toujours à la recherche de nouveaux défis 🎯 pour créer des solutions innovantes et adaptées. Merci 💜",
     "section_name": {
       "about": "A propos",
       "projects": "Projets",
-      "skills": "Technologies",
+      "skills": "Téchnologies",
       "experience": "Experience"
     }
   },

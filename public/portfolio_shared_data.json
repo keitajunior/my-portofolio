@@ -18,7 +18,7 @@
         "class": "fab fa-linkedin-in"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "profileMod.jpg"
   },
   "skills": {
     "icons": [
@@ -38,14 +38,24 @@
         "level": "80"
       },
       {
-        "name": "TypeScript",
-        "class": "devicon-typescript-plain",
-        "level": "90"
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "70"
       },
       {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
         "level": "70"
+      },
+      {
+        "name": "Spring",
+        "class": "devicon-spring-plain",
+        "level": "70"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
       },
       {
         "name": "Sass",
@@ -58,8 +68,18 @@
         "level": "85"
       },
       {
-        "name": "C#",
-        "class": "devicon-csharp-plain",
+        "name": "Flutter",
+        "class": "devicon-flutter-plain",
+        "level": "60"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "60"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
         "level": "65"
       },
       {
