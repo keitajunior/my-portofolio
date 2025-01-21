@@ -11,12 +11,12 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "SAYTU",
+      "startDate": "2023",
+      "description": "This is the first application I've had to work on since I joined PTS. It's a web application enabling users to book an appointment for a technical inspection.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/animal-shelter/s1.png",
+        "images/portfolio/animal-shelter/s2.png"
       ],
       "url": "",
       "technologies": [
@@ -25,84 +25,129 @@
           "name": "Angular"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-spring-plain",
+          "name": "Spring"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "LEKET",
+      "startDate": "2023",
+      "description": "I took part in the maintenance activities of this business management application, working on the back-end part in particular on maintenance management through the computer-aided maintenance management module (CMMS for PTS network stations), incident reporting, leave-taking... ",
       "images": [
-        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/L1.png",
         "images/portfolio/photography/p2.jpg"
       ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
+      "url": "",
       "technologies": [
         {
           "class": "devicon-angularjs-plain",
           "name": "Angular"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-spring-plain",
+          "name": "Spring"
+        }
+      ]
+    },
+    {
+      "title": "PUBC",
+      "startDate": "2024",
+      "description": "The most extensive application I've ever worked with. I gained a lot of experience thanks to this project. The IS consists of a mobile application for ordering fuel for individuals and companies, and a back office.",
+      "images": [
+        "images/portfolio/adventure/pu1.png",
+        "images/portfolio/adventure/pu2.jpg"
+      ],
+      "url": "https://www.linkedin.com/posts/petrosen-t-s_gr%C3%A2ce-%C3%A0-votre-application-petrosen-trouvez-activity-7274381484369612801-IoEA?utm_source=share&utm_medium=member_desktop",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-spring-plain",
+          "name": "Spring"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
+      "company": "Petrosen Trading And Services",
+      "title": "Software Engineer",
+      "years": "01.2024 - present",
+      "mainTech": ["Angular 13/ Spring"],
       "technologies": [
         "REST API",
         "RxJS",
         "JavaScript",
+        "JAVA",
         "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "Flyway",
+        "Postgresql/MySql",
+        "Angular Material",
+        "Swagger"
       ]
     },
     {
-      "company": "Serros Solutions",
+      "company": "Petrosen Trading And Services",
       "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "years": "07.2023 - 12.2023",
+      "mainTech": ["Angular 13/ Spring"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "Swagger",
+        "Java",
+        "Flyway",
+        "Postgresql/MySql"
+      ]
+    },
+    {
+      "company": "Focati Solutions SA",
+      "title": "Junior FullStack Developer",
+      "years": "02.2022 - 06.2023",
+      "mainTech": ["Angular/ Spring"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "Spring cloud",
+        "Swagger",
+        "Storybook ",
+        "Java",
+        "Liquibase",
+        "Postgresql"
+      ]
+    },
+    {
+      "company": "Focati Solutions SA",
+      "title": "Intern",
+      "years": "09.2021 - 01.2022",
+      "mainTech": ["Angular/ Spring"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "Spring cloud",
+        "Swagger",
+        "Storybook ",
+        "Java",
+        "Liquibase",
+        "Postgresql"
+      ]
+    },
+    {
+      "company": "ANACIM (National Civil Aviation and Meteorology Agency)",
+      "title": "Web Developer",
+      "years": "08.2019 - 11.2019",
+      "mainTech": ["PHP"],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "JQuery",
+        "JavaScript",
+        "MySql"
+      ]
     }
   ]
 }

@@ -3,8 +3,10 @@
     "name": "Moussa Diop KEITA",
     "titles": [
       "Software Engineer",
+      "Ingénieur logiciel",
       "FullStack Developer",
-      "Mid-Level Developer"
+      "Mid-Level Developer",
+      "Développeur Confirmé"
     ],
     "social": [
       {
@@ -16,9 +18,29 @@
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/moussa-diop-keita-aa2a2a127/",
         "class": "fab fa-linkedin-in"
+      },
+      {
+        "name": "twitter",
+        "url": "https://x.com/Moses00221",
+        "class": "fab fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "class": "fab fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-instagram"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/",
+        "class": "fab fa-youtube"
       }
     ],
-    "image": "profileMod.jpg"
+    "image": "myProfile.jpg"
   },
   "skills": {
     "icons": [
