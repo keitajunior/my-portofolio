@@ -7,7 +7,8 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
-
+import { SpeedInsights } from "@vercel/speed-insights/react";
+import { Analytics } from "@vercel/analytics/react";
 class App extends Component {
   constructor(props) {
     super();
@@ -133,6 +134,8 @@ class App extends Component {
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
+        <SpeedInsights />
+        <Analytics />
       </div>
     );
   }
