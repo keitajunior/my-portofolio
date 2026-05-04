@@ -27,6 +27,7 @@ class Footer extends Component {
                   ? this.props.sharedBasicInfo.name
                   : "???"}
               </small>
+              <small className="px-2">- 2026</small>
             </div>
           </div>
         </div>
